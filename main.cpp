@@ -9,6 +9,7 @@ using namespace std;
 
 int main()  
 {   cout<<"Hello ITGirls"<<endl;
+    getchar();
 
     return 0;
 }
